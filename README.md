@@ -10,6 +10,7 @@ Yesterday, I wrapped up a **sales analysis dashboard** featuring three fictional
 -  **Map Visualization** – Revenue by Store  
 -  **Play Button for Interaction** – Users can select a brand and click a button to switch views, making navigation intuitive.
 
- [**Dashboard Link**]([#](https://app.powerbi.com/view?r=eyJrIjoiYTYyMzZhMDMtYjczZS00MTAzLTkyNjQtNzMzNWUzMDVkODBmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9))  
+ [**Dashboard Link**](https://app.powerbi.com/view?r=eyJrIjoiYTYyMzZhMDMtYjczZS00MTAzLTkyNjQtNzMzNWUzMDVkODBmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+ 
  ![**Image Link**](https://github.com/user-attachments/assets/432220be-0ba1-4277-acdf-0339a6e2d1a1)
 
